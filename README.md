@@ -15,6 +15,7 @@ Tech
 **Tools:** Linux · Git · pandas · Matplotlib
 
 Contact
+
 🔗 LinkedIn: www.linkedin.com/in/guzidegunduz
 
 📧 Mail: ggunduz557@gmail.com
