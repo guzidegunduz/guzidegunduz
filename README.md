@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Güzide 👋
+Computer Engineering student at Ondokuz Mayıs University, interested in backend development, Python, JAVA and AI.
 
-<!--
-**guzidegunduz/guzidegunduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Interned at Vestel, building Python tools for Smart TV performance testing and DVB-I data validation
+💰 Building a personal finance tracking app with Next.js, TypeScript, and Supabase
+🤖 Learning machine learning in the IBM & Kodluyoruz Advanced AI program
+✍️ Leading the Medium Committee at Huawei Student Developers OMÜ
+Tech
+Languages: Python · TypeScript · Java · SQL Web: Next.js · Tailwind CSS · Supabase Tools: Linux · Git · pandas · Matplotlib
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+🔗 LinkedIn: www.linkedin.com/in/guzidegunduz
+📧 Mail: ggunduz557@gmail.com
