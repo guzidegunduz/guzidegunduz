@@ -5,6 +5,7 @@ Computer Engineering student at Ondokuz Mayıs University, interested in backend
 💰 Building a personal finance tracking app with Next.js, TypeScript, and Supabase
 🤖 Learning machine learning in the IBM & Kodluyoruz Advanced AI program
 ✍️ Leading the Medium Committee at Huawei Student Developers OMÜ
+
 Tech
 **Languages:** Python · TypeScript · Java · SQL
 
