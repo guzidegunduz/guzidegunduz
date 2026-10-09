@@ -7,6 +7,7 @@ Computer Engineering student at Ondokuz Mayıs University, interested in backend
 ✍️ Leading the Medium Committee at Huawei Student Developers OMÜ
 
 Tech
+
 **Languages:** Python · TypeScript · Java · SQL
 
 **Web:** Next.js · Tailwind CSS · Supabase
