@@ -16,4 +16,5 @@ Tech
 
 Contact
 🔗 LinkedIn: www.linkedin.com/in/guzidegunduz
+
 📧 Mail: ggunduz557@gmail.com
